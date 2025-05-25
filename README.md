@@ -1,4 +1,4 @@
-# Insights
+# ThinkData
 
 ### 1. Not Every Data Analyst Is Built the Same. So, Which One Are You?
 Before diving deep into analytics, I was a graphics designer — and that creative background didn’t fade away. I simply rechanneled it. Now, I design stories from data, craft insights with intention, and approach every analysis with the mindset of someone who wants to understand, not just report.
