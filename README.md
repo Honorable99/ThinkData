@@ -15,3 +15,7 @@ Diving deeper into the world of Data Analytics has been eye-opening. It’s not 
 ### 4. When I first started my career in data analysis,
 I thought it was all about creating stunning visuals and charts.
 [View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_dataanalytics-problemsolving-datadriven-activity-7329212932427296769-uivl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
+
+### 5. Bad Table Modeling in Power BI Can Wreck Your Report — Here’s Why
+Importance of proper Table modeling in PowerBI and warns about the negative effects of poor modeling — like incorrect results, filter issues, performance problems, and messy DAX formulas.
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_importance-of-proper-table-modeling-in-powerbi-activity-7335421494384082944-7wRA?utm_medium=ios_app&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU&utm_source=social_share_send&utm_campaign=copy_link)
